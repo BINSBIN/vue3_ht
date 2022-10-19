@@ -12,18 +12,11 @@ export default defineComponent({
   components: {
     HelloWorld,
   },
+  data() {
+    return {};
+  },
 });
 </script>
-
-
-
-
-
-
-
-
-
-
 
 <style lang="less">
 #app {
